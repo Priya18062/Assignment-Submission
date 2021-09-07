@@ -1,6 +1,0 @@
-num=8;
-str="N";
-var=num+str;
-print(var)
-
-#output:Typeerror
