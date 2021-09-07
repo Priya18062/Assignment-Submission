@@ -1,0 +1,4 @@
+print("My name is\t Idiot and\n I'm a topper")
+
+#output
+#My name is Idiot and I'm a topper

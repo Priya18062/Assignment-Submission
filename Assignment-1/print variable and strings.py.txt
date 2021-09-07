@@ -1,0 +1,6 @@
+name="Idiot";
+percentage=99.9;
+print(f"My name is{name}and my percentage is{percentage}")
+
+#output
+#My name is Idiot and my percentage is 99.9
