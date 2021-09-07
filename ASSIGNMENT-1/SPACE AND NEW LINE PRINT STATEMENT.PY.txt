@@ -1,0 +1,14 @@
+>>> for i in range(10): print('.')
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+>>> print('.', '.', '.', '.', '.', '.', '.', '.', '.', '.')
+. . . . . . . . . .
+In Python, print will add a \n or space. How can I avoid that? Now, it's just an example. Don't tell me I can first build a string and then print it. I'd like to know how to "append" strings to stdout.
